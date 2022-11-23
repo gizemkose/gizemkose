@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gizemkose
-- 👀 I’m interested in C# and Golang.
+- 👀 I’m interested in C#.
 - 🌱 I’m currently learning Clean Arcitecture and Microservice patterns
 - 💞️ I’m looking to collaborate on anything I can get fun!
 - 📫 How to reach me gizemkip93@gmail.com
